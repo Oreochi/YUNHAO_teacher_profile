@@ -1,0 +1,32 @@
+[
+  {
+    "year": 2026,
+    "type": "Journal",
+    "title": "Test Paper One",
+    "authors": "Teacher Name, Student Name",
+    "venue": "Test Journal of Artificial Intelligence",
+    "status": "Published",
+    "links": {
+      "paper": "https://example.com",
+      "doi": "",
+      "pdf": "",
+      "code": "",
+      "project": ""
+    }
+  },
+  {
+    "year": 2025,
+    "type": "Conference",
+    "title": "Test Paper Two",
+    "authors": "Teacher Name, Coauthor Name",
+    "venue": "International Conference on Machine Learning Test",
+    "status": "Accepted",
+    "links": {
+      "paper": "https://example.com",
+      "doi": "https://doi.org/10.0000/example",
+      "pdf": "",
+      "code": "",
+      "project": ""
+    }
+  }
+]
