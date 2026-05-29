@@ -1,5 +1,20 @@
 [
   {
+    "year": 2027,
+    "type": "Test",
+    "title": "Netlify Auto Deploy Test Paper",
+    "authors": "Yunhao Teacher, Jiachi Chang",
+    "venue": "Auto Deployment Test",
+    "status": "Testing",
+    "links": {
+      "paper": "https://example.com/auto-deploy-test",
+      "doi": "",
+      "pdf": "",
+      "code": "",
+      "project": ""
+    }
+  },
+  {
     "year": 2026,
     "type": "Journal",
     "title": "Test Paper One",
